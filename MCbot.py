@@ -7,6 +7,8 @@ reddit = praw.Reddit(client_id='A50qwu2QUzy0lKpsbI7evg',
 
 subreddit = reddit.subreddit("MagnificentCentury")
 
+print("this bot now works")
+
 '''
 client_id = os.getenv('client_id')
 client_secret = os.getenv('client_secret')
