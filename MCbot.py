@@ -9,8 +9,15 @@ subreddit = reddit.subreddit("MagC_bot")
 
 print("this bot now works")
 
+
+
+
+
+
+
 '''
 client_id = os.getenv('client_id')
 client_secret = os.getenv('client_secret')
 user_agent = os.getenv('user_agent')
 '''
+
